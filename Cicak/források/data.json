@@ -1,0 +1,23 @@
+[
+    {
+        "azonosito": "1",
+        "cicafoto": "cirmi.jpg",
+        "cicaneve": "Cirmi",
+        "cicafajta": "H\u00e1zi macska",
+        "cicakora": "3 hetes"
+    },
+    {
+        "azonosito": "2",
+        "cicafoto": "picur.jpg",
+        "cicaneve": "Picur",
+        "cicafajta": "H\u00e1zi macska",
+        "cicakora": "4 hetes"
+    },
+    {
+        "azonosito": "3",
+        "cicafoto": "p\u00f6tt\u00f6m.jpg",
+        "cicaneve": "P\u00f6tt\u00f6m",
+        "cicafajta": "H\u00e1zi macska",
+        "cicakora": "2 hetes"
+    }
+]
